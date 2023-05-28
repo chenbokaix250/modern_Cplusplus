@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/bokaichen/GIT_FLOW/modern_Cplusplus",
+      "program": "/Users/bokaichen/GIT_FLOW/modern_Cplusplus/build/Debug/outDebug"
+    }
+  ]
+}
