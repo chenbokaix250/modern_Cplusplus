@@ -22,7 +22,7 @@
 ## 异步
 * future
 * promise
-* async
+* [async](https://github.com/chenbokaix250/modern_Cplusplus/blob/main/async.md)
 * thread
 
 ---
@@ -35,6 +35,7 @@
 * condition_variable
 * override
 * final
+* [make_shared](https://github.com/chenbokaix250/modern_Cplusplus/blob/main/make_shared.md)
 
 ## 基础
 * keyWords
@@ -42,6 +43,8 @@
 * refrence
 * const
 * using
-* vector
-* static
+* [vector](https://github.com/chenbokaix250/modern_Cplusplus/blob/main/vector.md)
+* [static](https://github.com/chenbokaix250/modern_Cplusplus/blob/main/static.md)
+* [unordermap](https://github.com/chenbokaix250/modern_Cplusplus/blob/main/std_unordermap.md)
+* [string_view](https://github.com/chenbokaix250/modern_Cplusplus/blob/main/string_view.md)
 ---
