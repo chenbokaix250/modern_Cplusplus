@@ -22,6 +22,10 @@
 ## 异步
 * future
 * promise
+* async
+* thread
+
+---
 
 
 * reinterpret_cast
@@ -30,6 +34,7 @@
 * enable_shared_from_this
 * condition_variable
 * override
+* final
 
 ## 基础
 * keyWords
@@ -37,5 +42,6 @@
 * refrence
 * const
 * using
-
+* vector
+* static
 ---
