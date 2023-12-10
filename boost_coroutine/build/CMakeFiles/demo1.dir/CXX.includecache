@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/code/user/boost_coroutine/demo4.cpp
+iostream
+-
+boost/coroutine2/all.hpp
+-
+boost/coroutine2/detail/push_coroutine.hpp
+-
+boost/coroutine2/detail/pull_coroutine.hpp
+-
+
